@@ -1,0 +1,16 @@
+
+utils::globalVariables(c("porc_VO2",
+                         "FAT",
+                         "porc_VO2_kinetics",
+                         "variables",
+                         "values",
+                         "values",
+                         "VCO2",
+                         "VO2",
+                         "CHO_Frayn",
+                         "FAT_Frayn",
+                         "CHO_Jeukendrup_40_50_VO2",
+                         "FAT_Jeukendrup_40_50_VO2",
+                         "CHO_Jeukendrup_50_75_VO2",
+                         "FAT_Jeukendrup_50_75_VO2",
+                         "all_of"))
